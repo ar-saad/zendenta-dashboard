@@ -1,0 +1,14 @@
+.tabs {
+    cursor: pointer;
+    color: gray;
+}
+.active-tab {
+    color: blue;
+    cursor: pointer;
+}
+.content {
+    display: none;
+}
+.active-content {
+    display: block;
+}
