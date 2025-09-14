@@ -1,1 +1,1 @@
-### Live site - <https://krishworks-assignment.netlify.app/>
+### Live site - <https://zendenta-dashboard.web.app/>
